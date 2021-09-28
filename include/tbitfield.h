@@ -13,6 +13,7 @@
 using namespace std;
 
 typedef unsigned int TELEM;
+#define SizeType 32
 
 class TBitField
 {
